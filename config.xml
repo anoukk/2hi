@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.2hi.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>A Game of Two Halves</name>
-    <description>Latest from the Last Word on Football</description>
+    <name>2-Hi</name>
+    <description>Smoking Culture</description>
     <author email="contato@" href="http://www.2hi.com.br">2Hi - Smoking Culture</author>
 
     <preference name="phonegap-version" value="3.3.0" />
